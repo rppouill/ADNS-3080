@@ -33,11 +33,17 @@ To use the VHDL code in this project as a library in another project, follow the
 
 
 Tree Structure
-.
+
 ├── FPGA
+
 │   ├── module1.vhd
+
 │   |	├── Frame_Capture.vhd
+
 │   └── module3.vhd
+
 ├── README.md
+
 ├── LICENSE
+
 └── adns_3080.pdf
