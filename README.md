@@ -28,7 +28,7 @@ To use the VHDL code in this project as a library in another project, follow the
 
 ## References
 
-- [ADNS-3080 Sensor Documentation](http://www.avagotech.com/docs/AV02-2040EN)
+- [ADNS-3080 Sensor Documentation](https://github.com/rppouill/ADNS-3080/blob/main/adns_3080.pdf)
 - [SPI Communication Protocol](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface)
 
 
@@ -36,3 +36,12 @@ Tree Structure
 > FPGA
 	> hardware
 		>Frame_Capture.vhd
+
+
+├── FPGA
+│   ├── module1.vhd
+│   |	├── Frame_Capture.vhd
+│   └── module3.vhd
+├── README.md
+├── LICENSE
+└── adns_3080.pdf
