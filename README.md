@@ -33,11 +33,7 @@ To use the VHDL code in this project as a library in another project, follow the
 
 
 Tree Structure
-> FPGA
-	> hardware
-		>Frame_Capture.vhd
-
-
+.
 ├── FPGA
 │   ├── module1.vhd
 │   |	├── Frame_Capture.vhd
