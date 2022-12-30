@@ -41,3 +41,16 @@ Tree Structure
 ├── README.md 
 ├── LICENSE 
 └── adns_3080.pdf 
+
+.
+├── src
+│   ├── module1.vhd
+│   ├── module2.vhd
+│   └── module3.vhd
+├── test
+│   ├── testbench1.vhd
+│   ├── testbench2.vhd
+│   └── testbench3.vhd
+├── README.md
+├── LICENSE
+└── .gitignore
